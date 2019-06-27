@@ -1,5 +1,5 @@
 /* descripcion */
-console.log("Has númerico: se obtiene la cantidad de letras del nombre y apellido, luego se multiplica por la edad y por ultimo se divide por un numero random y se redondea al entero mas cercano");
+console.log("Hash númerico: se obtiene la cantidad de letras del nombre y apellido, luego se multiplica por la edad y por ultimo se divide por un numero random y se redondea al entero mas cercano");
 
 var data = function(){
     /* variables con las que voy a trabajar*/
